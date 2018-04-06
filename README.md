@@ -72,7 +72,7 @@ Grade awarded will be mapped to the total number of normalized points earned as 
 
  - Weekly Status Reports | 50%
  - Mid-Term Reflection Paper | 20%
- - Final Relection Paper | 30%
+ - Final Reflection Paper | 30%
 
 After the weighted average of the points is calculated, the following table shows the correspondence of scores to grade for the course: (The instructor reserves the right to adjust this scale.)
 
