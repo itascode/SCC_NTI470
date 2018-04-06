@@ -1,5 +1,5 @@
 # Seattle Central College - NTI 470 - Internship / Capstone 
-INSTRUCTOR:         Mr. Michael Fraser                                                      
+## INSTRUCTOR:         Mr. Michael Fraser                                                      
 QUARTER: 		Spring 2018
 PHONE:                   702.428.2028
 EMAIL:                     Michael.fraser@seattlecolleges.edu
