@@ -14,7 +14,9 @@ to the  process of students' experience using Accucampus.
 What do you plan to complete by the next report?
 
 By the next report I plan to respond to any emails that come back from others which I've sent
-emails to. I also plan to
+emails to. I also plan to look into SSO, or Single Sign On solutions which Accucampus can leverage to
+allow students to login with their EAD passwords. This process will take time to understand and research
+will be required to do so.
 
 What is getting in your way?
 
