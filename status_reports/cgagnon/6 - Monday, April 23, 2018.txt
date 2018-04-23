@@ -1,0 +1,27 @@
+Student Name: Cody Antonio Gagnon
+Status Report # 6
+Date: 04-23-18
+
+What have you completed since the last report?
+
+Since the last report, I've been in contact with more faculty members in addition
+to doing some research into the testing of Outlook integration with Accucampus. So
+far we've learned that we'll need to ensure that IT has provisioned all advising
+computers (probably all computers on the image) with the software executable required
+for this functionality.
+
+What do you plan to complete by the next report?
+
+By the next report I hope to actually have some testing of Outlook synchronization
+done in addition to having a mostly completed survey to send out to students. We also
+want to develop a better idea of what students are able to do with Accucampus to Build
+our case for SSO; we hope that our emails to faculty will supplement us with information
+to make an informed decision about our next steps with regards to this.
+
+What is getting in your way?
+
+Probably being able to use the Outlook integration will be an obstacle, but we
+just don't know yet. This issue will take testing on our part as well as asking
+faculty and observing their use-case to understand where the issues will arise; but
+if we're unable to actually use the software executable on the computers that will get
+in our way first.
