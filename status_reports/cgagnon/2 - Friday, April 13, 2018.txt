@@ -1,0 +1,28 @@
+Student Name: Cody Antonio Gagnon
+Status Report # 2
+Date: 04-13-18
+
+What have you completed since the last report?
+
+Yesterday we had a meeting to discuss a survey which was conducted by student leadership
+to see students' response to features that would make the advising process easier for them.
+This survey was particularly made for International Programs after the surveyor and multiple students
+complained about long wait-times to do simple tasks like scheduling appointment. While we didn't get to
+see the survey itself, I learned a lot about what our survey would provide in addition
+to the  process of students' experience using Accucampus.
+
+What do you plan to complete by the next report?
+
+By the next report I plan to respond to any emails that come back from others which I've sent
+emails to. I also plan to look into SSO, or Single Sign On solutions which Accucampus can leverage to
+allow students to login with their EAD passwords. This process will take time to understand and research
+will be required to do so.
+
+What is getting in your way?
+
+Getting a response back might prove to be an issue. The current way which I believe
+students need to access Accucampus is unintuitive and inefficient at best. We need
+to address the way that login portal is hampering students' ability to get the functionality
+out of the app that they need. This will require a lot of research and communication
+to implement correctly, and we're still unsure of who we will talk to in order to
+get the ball rolling.

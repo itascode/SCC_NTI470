@@ -1,0 +1,22 @@
+Student Name: Cody Antonio Gagnon
+Status Report # 4
+Date: 04-18-18
+
+What have you completed since the last report?
+
+I've communicated with multiple people to learn more about what will be required
+to get EAD integration into Accucampus. We also took and created a database which
+contains separate timeline, card, and task views of what we plan on doing for the
+rest of the quarter; we used http://coda.io to accomplish this task.
+
+What do you plan to complete by the next report?
+
+By the next report we'll have scheduled a survey appointment and began generating
+statistics and planning out our report for district to hear our EAD appeal.
+
+What is getting in your way?
+
+This EAD issue will probably get in our way for awhile, but we did see that
+another Seattle Central app was able to get EAD support, so we're hoping for the best.
+My dream would be for students to easily login to Accucampus so that they can access
+the services it offers.

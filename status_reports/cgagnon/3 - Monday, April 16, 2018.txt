@@ -1,0 +1,19 @@
+Student Name: Cody Antonio Gagnon
+Status Report # 3
+Date: 04-16-18
+
+What have you completed since the last report?
+
+I have been working on researching how to actually implement Accucampus at advising
+by doing job shadowing as well as researching how to fix a major user experience issue.
+
+What do you plan to complete by the next report?
+
+By the next report I will have emailed relevant parties to understand more about ITs'
+role in implementing Accucampus at Seattle Central.
+
+What is getting in your way?
+
+Finding who's worked on the Accucampus at Seattle Central is taking more time than
+expected. I haven't been able to locate the specific person that did the SIS, or
+Student Information System imports into Accucampus, but really that's the main issue.
